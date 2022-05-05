@@ -1,0 +1,19 @@
+{
+  "name": "is-apple-silicon",
+  "version": "1.0.1",
+  "description": "A simple utility to check if a machine has an Apple (arm64) processor; useful for npm/developer scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmealo/is-apple-silicon.git"
+  },
+  "author": "Jeff Mealo <jmealo@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmealo/is-apple-silicon/issues"
+  },
+  "homepage": "https://github.com/jmealo/is-apple-silicon#readme"
+}
