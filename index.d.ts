@@ -1,5 +1,7 @@
 declare module 'is-apple-silicon' {
-  export const isAppleSilicon: () => boolean
-  export const isNodeNative: () => boolean
-  export const isRosetta: () => boolean
+  export function isAppleSilicon(forceCheck?: boolean): boolean;
+
+  export function isNodeNative(forceCheck?: boolean): boolean;
+
+  export function isRosetta(forceCheck?: boolean): boolean;
 }
