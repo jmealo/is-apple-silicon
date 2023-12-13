@@ -19,5 +19,21 @@
   "homepage": "https://github.com/jmealo/is-apple-silicon#readme",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "keywords": [
+    "rosetta",
+    "apple",
+    "silicon",
+    "arm64",
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "mac",
+    "macos",
+    "osx",
+    "macbook",
+    "processor",
+    "cpu"
+  ]
 }
