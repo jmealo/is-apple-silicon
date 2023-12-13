@@ -1,6 +1,6 @@
 {
   "name": "is-apple-silicon",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple utility to check if a machine has an Apple (arm64) processor; useful for npm/developer scripts.",
   "main": "index.js",
   "types": "index.d.ts",
