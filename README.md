@@ -56,9 +56,9 @@ return `false` for `isNodeNative()` on Apple Silicon).
 
 #### On MacBook Pro with Apple Silicon and Node 16+ (arm64 support):
 
-`isAppleSilicon() === true`
-`isNodeNative() === true`
-`isRosetta() === false`
+- `isAppleSilicon() === true`
+- `isNodeNative() === true`
+- `isRosetta() === false`
 
 #### On Intel MacBook Pro with Node 16+ (x64):
 
